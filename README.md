@@ -10,6 +10,9 @@ A Safari extension for filtering unwanted content on X (formerly Twitter) using 
 - 📢 **Ad Blocker**: Hide promoted posts and advertisements
 - ⚙️ **Customizable Prompts**: Define your own filtering criteria (e.g., "political content", "sports", etc.)
 
+
+<img width="783" height="891" alt="Screenshot 2025-10-05 at 6 26 41 PM" src="https://github.com/user-attachments/assets/fb1c1d70-d953-4627-8501-0ff220bd4927" />
+
 ## Installation
 
 ### Prerequisites
