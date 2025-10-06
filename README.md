@@ -1,4 +1,4 @@
-# XedOut V2
+# XedOut
 
 A Safari extension for filtering unwanted content on X (formerly Twitter) using AI-powered content analysis.
 
